@@ -1,0 +1,209 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 843083300,
+      "my_chat_member": {
+        "chat": {
+          "id": -602944880,
+          "title": "asd",
+          "type": "group",
+          "all_members_are_administrators": false
+        },
+        "from": {
+          "id": 114356224,
+          "is_bot": false,
+          "first_name": "Rayquaza\ud83d\udc09",
+          "username": "raythx98",
+          "language_code": "en"
+        },
+        "date": 1651176993,
+        "old_chat_member": {
+          "user": {
+            "id": 5358826388,
+            "is_bot": true,
+            "first_name": "My Quirky Bot",
+            "username": "myquirkybot"
+          },
+          "status": "left"
+        },
+        "new_chat_member": {
+          "user": {
+            "id": 5358826388,
+            "is_bot": true,
+            "first_name": "My Quirky Bot",
+            "username": "myquirkybot"
+          },
+          "status": "member"
+        }
+      }
+    },
+    {
+      "update_id": 843083301,
+      "message": {
+        "message_id": 7,
+        "from": {
+          "id": 114356224,
+          "is_bot": false,
+          "first_name": "Rayquaza\ud83d\udc09",
+          "username": "raythx98",
+          "language_code": "en"
+        },
+        "chat": {
+          "id": -602944880,
+          "title": "asd",
+          "type": "group",
+          "all_members_are_administrators": true
+        },
+        "date": 1651176993,
+        "group_chat_created": true
+      }
+    },
+    {
+      "update_id": 843083302,
+      "my_chat_member": {
+        "chat": {
+          "id": -773468227,
+          "title": "huhu",
+          "type": "group",
+          "all_members_are_administrators": true
+        },
+        "from": {
+          "id": 114356224,
+          "is_bot": false,
+          "first_name": "Rayquaza\ud83d\udc09",
+          "username": "raythx98",
+          "language_code": "en"
+        },
+        "date": 1651177033,
+        "old_chat_member": {
+          "user": {
+            "id": 5358826388,
+            "is_bot": true,
+            "first_name": "My Quirky Bot",
+            "username": "myquirkybot"
+          },
+          "status": "left"
+        },
+        "new_chat_member": {
+          "user": {
+            "id": 5358826388,
+            "is_bot": true,
+            "first_name": "My Quirky Bot",
+            "username": "myquirkybot"
+          },
+          "status": "member"
+        }
+      }
+    },
+    {
+      "update_id": 843083303,
+      "message": {
+        "message_id": 8,
+        "from": {
+          "id": 114356224,
+          "is_bot": false,
+          "first_name": "Rayquaza\ud83d\udc09",
+          "username": "raythx98",
+          "language_code": "en"
+        },
+        "chat": {
+          "id": -773468227,
+          "title": "huhu",
+          "type": "group",
+          "all_members_are_administrators": true
+        },
+        "date": 1651177033,
+        "new_chat_participant": {
+          "id": 5358826388,
+          "is_bot": true,
+          "first_name": "My Quirky Bot",
+          "username": "myquirkybot"
+        },
+        "new_chat_member": {
+          "id": 5358826388,
+          "is_bot": true,
+          "first_name": "My Quirky Bot",
+          "username": "myquirkybot"
+        },
+        "new_chat_members": [
+          {
+            "id": 5358826388,
+            "is_bot": true,
+            "first_name": "My Quirky Bot",
+            "username": "myquirkybot"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 843083304,
+      "my_chat_member": {
+        "chat": {
+          "id": -773468227,
+          "title": "huhu",
+          "type": "group",
+          "all_members_are_administrators": true
+        },
+        "from": {
+          "id": 114356224,
+          "is_bot": false,
+          "first_name": "Rayquaza\ud83d\udc09",
+          "username": "raythx98",
+          "language_code": "en"
+        },
+        "date": 1651177154,
+        "old_chat_member": {
+          "user": {
+            "id": 5358826388,
+            "is_bot": true,
+            "first_name": "My Quirky Bot",
+            "username": "myquirkybot"
+          },
+          "status": "member"
+        },
+        "new_chat_member": {
+          "user": {
+            "id": 5358826388,
+            "is_bot": true,
+            "first_name": "My Quirky Bot",
+            "username": "myquirkybot"
+          },
+          "status": "left"
+        }
+      }
+    },
+    {
+      "update_id": 843083305,
+      "message": {
+        "message_id": 9,
+        "from": {
+          "id": 114356224,
+          "is_bot": false,
+          "first_name": "Rayquaza\ud83d\udc09",
+          "username": "raythx98",
+          "language_code": "en"
+        },
+        "chat": {
+          "id": -773468227,
+          "title": "huhu",
+          "type": "group",
+          "all_members_are_administrators": true
+        },
+        "date": 1651177154,
+        "left_chat_participant": {
+          "id": 5358826388,
+          "is_bot": true,
+          "first_name": "My Quirky Bot",
+          "username": "myquirkybot"
+        },
+        "left_chat_member": {
+          "id": 5358826388,
+          "is_bot": true,
+          "first_name": "My Quirky Bot",
+          "username": "myquirkybot"
+        }
+      }
+    }
+  ]
+}
