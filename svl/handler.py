@@ -7,6 +7,10 @@ TOKEN = os.environ['TELEGRAM_TOKEN']
 MONGO_TOKEN = os.environ['MONGO_PASSWORD']
 chosen_messages = {}
 
+# Functionalities to add
+# Upgrade type from chat
+# Add message from chat
+
 
 def generate_message(user_type, messages_collection):
     if user_type in chosen_messages:
